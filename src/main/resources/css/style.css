@@ -1,0 +1,17 @@
+.button {
+    -fx-background-color: #4CAF50; /* Color de fondo */
+    -fx-text-fill: white; /* Color del texto */
+    -fx-font-size: 14px; /* Tamaño de la fuente */
+    -fx-padding: 8px 16px; /* Relleno del botón */
+    -fx-background-radius: 5px; /* Bordes redondeados */
+}
+
+.button:hover {
+    -fx-background-color: #45a049; /* Cambiar color de fondo al pasar el ratón */
+}
+
+.fondo {
+    -fx-background-image: url("../Imagenes/Garaje2.jpg");
+    -fx-background-size: cover;
+}
+
